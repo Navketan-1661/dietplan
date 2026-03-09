@@ -1,0 +1,1201 @@
+Food,Meal_Type,Diet_Type,Calories,Protein_g,Carbs_g,Fat_g
+Eggs,Dinner,Non-Veg,209,37.62,76.67,28.27
+Eggs,Dinner,Non-Veg,383,32.36,63.52,13.49
+Orange,Lunch,Veg,463,20.03,54.42,21.2
+Chickpeas,Dinner,Veg,222,1.65,22.04,18.98
+Banana,Lunch,Veg,356,17.49,51.68,23.71
+Brown Rice,Snack,Veg,337,22.61,67.72,25.19
+Lentils,Snack,Veg,118,19.05,38.87,11.95
+Quinoa,Snack,Veg,560,37.36,26.24,4.62
+Chicken Breast,Dinner,Non-Veg,513,23.06,64.17,25.0
+Avocado,Snack,Veg,593,18.88,40.36,4.0
+Paneer,Breakfast,Veg,505,37.64,19.27,4.07
+Broccoli,Breakfast,Veg,567,37.4,57.28,19.0
+Chickpeas,Dinner,Veg,208,3.48,11.01,17.09
+Eggs,Lunch,Non-Veg,597,15.43,55.33,21.58
+Orange,Snack,Veg,288,30.79,56.35,21.2
+Yogurt,Snack,Veg,102,21.17,26.41,27.5
+Broccoli,Dinner,Veg,155,24.12,71.1,20.72
+Banana,Dinner,Veg,92,25.0,23.74,13.76
+Milk,Snack,Veg,337,37.17,10.05,27.18
+Yogurt,Lunch,Veg,293,12.24,61.06,4.13
+Oats,Breakfast,Veg,471,9.56,54.32,27.63
+Milk,Snack,Veg,260,32.57,46.86,26.44
+Broccoli,Lunch,Veg,250,17.05,42.44,12.21
+Paneer,Snack,Veg,506,31.85,66.06,4.62
+Almonds,Breakfast,Veg,74,31.97,58.87,17.17
+Oats,Lunch,Veg,423,3.26,47.71,9.0
+Tofu,Breakfast,Veg,399,35.56,53.7,29.84
+Spinach,Lunch,Veg,316,18.63,75.08,2.01
+Oats,Breakfast,Veg,329,38.54,64.86,7.57
+Peanuts,Dinner,Veg,531,13.48,69.4,6.36
+Chicken Breast,Snack,Non-Veg,557,14.92,79.77,1.33
+Paneer,Dinner,Veg,405,35.66,33.58,8.42
+Carrot,Dinner,Veg,317,11.79,11.82,23.08
+Sweet Potato,Breakfast,Veg,385,11.52,31.51,2.31
+Yogurt,Dinner,Veg,381,20.6,52.63,13.11
+Tofu,Breakfast,Veg,249,22.61,21.21,5.94
+Chickpeas,Dinner,Veg,503,5.71,29.94,20.6
+Chickpeas,Lunch,Veg,455,28.24,69.39,4.13
+Yogurt,Lunch,Veg,167,8.77,68.72,6.99
+Salmon,Snack,Non-Veg,198,24.31,58.64,20.06
+Sweet Potato,Dinner,Veg,268,4.28,65.4,9.8
+Eggs,Lunch,Non-Veg,381,32.55,13.37,9.31
+Chicken Breast,Dinner,Non-Veg,536,22.99,45.03,16.82
+Salmon,Snack,Non-Veg,591,19.48,33.3,27.59
+Spinach,Lunch,Veg,329,9.05,49.63,25.3
+Sweet Potato,Lunch,Veg,392,37.0,63.32,26.0
+Quinoa,Snack,Veg,533,18.58,41.33,12.3
+Quinoa,Breakfast,Veg,203,10.88,12.62,7.99
+Oats,Dinner,Veg,587,16.93,24.94,7.45
+Chicken Breast,Lunch,Non-Veg,254,13.05,62.5,19.72
+Apple,Snack,Veg,119,15.17,64.19,8.55
+Lentils,Lunch,Veg,246,18.66,12.43,19.27
+Apple,Lunch,Veg,185,30.31,32.15,5.49
+Brown Rice,Dinner,Veg,399,4.16,75.25,29.11
+Chickpeas,Snack,Veg,197,17.97,21.51,14.23
+Chickpeas,Dinner,Veg,408,28.74,60.45,23.8
+Orange,Snack,Veg,381,5.38,53.95,17.59
+Apple,Dinner,Veg,410,5.36,70.45,15.4
+Carrot,Lunch,Veg,405,32.38,73.44,28.96
+Tofu,Snack,Veg,529,10.5,9.68,17.64
+Sweet Potato,Breakfast,Veg,559,5.63,79.35,10.69
+Banana,Breakfast,Veg,198,4.27,14.33,6.81
+Quinoa,Lunch,Veg,557,16.94,79.46,19.82
+Tofu,Dinner,Veg,451,10.92,46.52,17.98
+Carrot,Lunch,Veg,177,5.11,53.91,8.86
+Carrot,Dinner,Veg,366,13.3,71.57,8.6
+Salmon,Lunch,Non-Veg,354,33.6,14.71,18.14
+Broccoli,Lunch,Veg,355,39.54,10.61,2.89
+Almonds,Breakfast,Veg,198,38.46,40.14,27.71
+Yogurt,Snack,Veg,282,33.9,34.25,16.02
+Almonds,Snack,Veg,210,11.69,32.97,29.4
+Salmon,Dinner,Non-Veg,105,26.99,6.33,18.83
+Salmon,Breakfast,Non-Veg,521,16.93,8.39,21.18
+Oats,Dinner,Veg,285,4.53,48.18,27.84
+Almonds,Snack,Veg,282,9.07,58.78,4.04
+Oats,Dinner,Veg,221,33.71,55.64,13.66
+Chicken Breast,Breakfast,Non-Veg,392,29.77,18.17,8.31
+Lentils,Snack,Veg,248,13.49,56.85,23.34
+Almonds,Breakfast,Veg,294,6.19,30.37,23.41
+Orange,Breakfast,Veg,223,21.36,76.53,18.4
+Carrot,Lunch,Veg,250,1.59,47.14,24.99
+Almonds,Breakfast,Veg,287,16.08,5.36,19.75
+Carrot,Dinner,Veg,265,5.92,20.38,24.89
+Lentils,Dinner,Veg,245,9.81,55.69,13.9
+Oats,Dinner,Veg,438,19.65,31.46,3.57
+Avocado,Dinner,Veg,569,28.16,60.65,10.65
+Broccoli,Dinner,Veg,81,25.47,78.01,28.22
+Salmon,Dinner,Non-Veg,402,19.36,36.5,27.01
+Milk,Lunch,Veg,524,15.12,46.22,12.7
+Orange,Breakfast,Veg,208,32.34,25.54,26.77
+Broccoli,Snack,Veg,568,21.95,13.97,2.26
+Eggs,Breakfast,Non-Veg,248,33.48,75.98,8.21
+Milk,Breakfast,Veg,314,10.2,17.86,1.83
+Salmon,Breakfast,Non-Veg,151,24.02,18.47,25.23
+Paneer,Lunch,Veg,357,5.75,11.75,13.62
+Banana,Snack,Veg,380,3.35,51.46,8.44
+Paneer,Dinner,Veg,65,10.55,22.3,4.56
+Apple,Breakfast,Veg,575,25.38,52.47,19.03
+Broccoli,Dinner,Veg,92,6.73,73.47,14.87
+Apple,Snack,Veg,378,6.0,19.6,17.66
+Brown Rice,Dinner,Veg,528,18.37,38.69,29.96
+Brown Rice,Lunch,Veg,158,17.31,66.35,17.09
+Sweet Potato,Breakfast,Veg,315,23.79,27.32,21.93
+Broccoli,Lunch,Veg,428,15.85,40.15,13.71
+Tofu,Snack,Veg,167,10.0,44.71,3.74
+Chicken Breast,Breakfast,Non-Veg,210,27.59,19.81,27.67
+Eggs,Lunch,Non-Veg,563,38.85,43.63,13.61
+Peanuts,Lunch,Veg,336,30.11,19.13,10.05
+Carrot,Snack,Veg,102,30.72,18.25,24.86
+Carrot,Lunch,Veg,356,20.06,79.01,14.49
+Milk,Breakfast,Veg,196,19.08,8.41,20.35
+Sweet Potato,Dinner,Veg,409,10.88,30.21,27.74
+Chickpeas,Breakfast,Veg,106,13.88,60.76,29.09
+Almonds,Breakfast,Veg,308,8.2,70.39,26.19
+Banana,Dinner,Veg,549,14.84,21.76,28.81
+Orange,Breakfast,Veg,99,30.03,15.78,17.66
+Tofu,Breakfast,Veg,332,21.69,67.25,4.96
+Oats,Breakfast,Veg,263,28.86,57.69,29.81
+Eggs,Snack,Non-Veg,277,32.52,36.7,4.42
+Banana,Snack,Veg,524,21.64,31.43,28.36
+Avocado,Snack,Veg,85,34.85,50.02,11.14
+Lentils,Snack,Veg,558,30.62,26.39,1.41
+Eggs,Breakfast,Non-Veg,72,9.22,31.66,20.72
+Avocado,Lunch,Veg,126,36.89,77.83,15.78
+Peanuts,Snack,Veg,280,2.88,58.44,10.6
+Paneer,Dinner,Veg,312,13.94,38.67,16.19
+Tofu,Dinner,Veg,600,27.91,24.21,12.08
+Carrot,Dinner,Veg,249,5.12,78.52,13.09
+Quinoa,Dinner,Veg,522,8.28,52.75,26.99
+Paneer,Lunch,Veg,510,4.47,6.25,9.37
+Salmon,Lunch,Non-Veg,387,32.28,40.85,26.17
+Almonds,Snack,Veg,418,30.94,31.12,3.77
+Avocado,Lunch,Veg,498,39.86,61.9,20.91
+Peanuts,Dinner,Veg,94,14.6,18.87,27.41
+Lentils,Snack,Veg,303,34.24,31.4,18.73
+Yogurt,Dinner,Veg,558,2.0,70.69,29.96
+Banana,Dinner,Veg,81,36.63,28.88,12.29
+Tofu,Dinner,Veg,63,30.5,75.55,7.16
+Banana,Dinner,Veg,428,28.75,19.93,12.03
+Oats,Lunch,Veg,482,39.67,66.14,7.04
+Peanuts,Snack,Veg,233,39.53,64.47,5.89
+Salmon,Dinner,Non-Veg,175,31.89,70.14,5.3
+Chicken Breast,Dinner,Non-Veg,490,36.45,32.68,23.87
+Brown Rice,Lunch,Veg,515,4.39,71.93,12.47
+Apple,Dinner,Veg,94,14.01,6.22,21.7
+Paneer,Lunch,Veg,239,33.69,17.81,19.25
+Yogurt,Breakfast,Veg,83,1.68,33.99,23.81
+Sweet Potato,Breakfast,Veg,303,37.52,33.71,24.92
+Milk,Lunch,Veg,244,22.08,46.99,27.12
+Salmon,Dinner,Non-Veg,513,22.96,9.53,7.61
+Brown Rice,Dinner,Veg,233,14.66,11.32,12.71
+Brown Rice,Dinner,Veg,568,23.56,22.45,15.75
+Sweet Potato,Snack,Veg,210,2.5,56.7,5.14
+Paneer,Lunch,Veg,395,18.07,37.85,19.42
+Orange,Dinner,Veg,529,12.05,61.96,8.31
+Banana,Snack,Veg,115,10.75,78.96,6.98
+Apple,Snack,Veg,286,18.44,65.88,25.85
+Banana,Breakfast,Veg,74,33.31,8.51,4.62
+Sweet Potato,Lunch,Veg,324,14.41,70.88,3.6
+Milk,Breakfast,Veg,367,27.52,43.26,16.3
+Sweet Potato,Breakfast,Veg,137,24.18,48.22,11.21
+Oats,Snack,Veg,52,9.03,74.54,29.21
+Carrot,Breakfast,Veg,464,4.31,25.01,18.25
+Eggs,Dinner,Non-Veg,448,38.32,71.72,13.2
+Lentils,Lunch,Veg,331,6.64,78.66,20.15
+Oats,Dinner,Veg,396,16.58,7.56,15.14
+Almonds,Dinner,Veg,154,10.95,61.63,21.42
+Paneer,Dinner,Veg,435,32.76,41.18,17.31
+Eggs,Dinner,Non-Veg,331,23.13,43.2,7.65
+Avocado,Breakfast,Veg,597,8.48,54.38,22.66
+Quinoa,Snack,Veg,488,20.78,75.33,4.52
+Lentils,Snack,Veg,279,30.63,56.81,28.68
+Broccoli,Lunch,Veg,60,22.86,23.79,1.17
+Quinoa,Snack,Veg,249,7.68,47.58,11.52
+Brown Rice,Dinner,Veg,454,10.73,27.85,26.26
+Lentils,Lunch,Veg,289,7.92,74.86,12.18
+Orange,Dinner,Veg,463,8.19,47.73,13.02
+Sweet Potato,Snack,Veg,520,15.37,71.75,23.61
+Orange,Breakfast,Veg,365,28.15,49.36,14.53
+Lentils,Dinner,Veg,479,6.97,14.35,14.83
+Avocado,Breakfast,Veg,379,24.91,12.9,14.59
+Tofu,Snack,Veg,226,25.75,17.8,7.22
+Milk,Dinner,Veg,121,17.98,20.91,18.19
+Chicken Breast,Lunch,Non-Veg,490,35.57,17.4,16.1
+Oats,Dinner,Veg,465,38.92,77.06,15.87
+Chickpeas,Dinner,Veg,59,25.75,13.29,22.98
+Almonds,Breakfast,Veg,305,18.11,49.72,24.49
+Spinach,Snack,Veg,284,4.13,13.59,20.41
+Chickpeas,Snack,Veg,375,16.39,12.44,8.09
+Chicken Breast,Snack,Non-Veg,527,32.86,18.83,14.51
+Apple,Lunch,Veg,198,36.18,26.01,4.9
+Salmon,Snack,Non-Veg,510,26.52,14.47,10.31
+Salmon,Dinner,Non-Veg,281,19.67,21.0,6.54
+Brown Rice,Lunch,Veg,156,28.32,36.34,19.82
+Brown Rice,Dinner,Veg,468,5.99,69.89,3.27
+Chicken Breast,Snack,Non-Veg,414,24.57,15.62,13.08
+Banana,Dinner,Veg,585,18.47,62.46,5.59
+Oats,Snack,Veg,580,35.09,65.72,21.84
+Oats,Lunch,Veg,580,7.31,79.1,4.62
+Chickpeas,Snack,Veg,472,21.47,14.07,19.23
+Yogurt,Lunch,Veg,189,17.25,62.65,2.25
+Avocado,Lunch,Veg,69,23.42,45.04,27.13
+Apple,Dinner,Veg,146,36.46,28.82,1.93
+Sweet Potato,Snack,Veg,350,12.71,14.49,27.38
+Sweet Potato,Dinner,Veg,572,24.36,39.25,23.03
+Banana,Dinner,Veg,220,18.58,13.35,27.83
+Lentils,Snack,Veg,372,6.93,21.08,4.13
+Quinoa,Lunch,Veg,70,18.14,40.76,3.27
+Milk,Breakfast,Veg,387,36.39,48.1,15.29
+Broccoli,Breakfast,Veg,559,10.31,42.31,15.63
+Lentils,Breakfast,Veg,215,7.14,36.73,26.05
+Chicken Breast,Lunch,Non-Veg,160,14.13,44.96,25.38
+Almonds,Snack,Veg,514,18.12,26.33,1.27
+Yogurt,Breakfast,Veg,229,29.43,20.19,25.61
+Quinoa,Snack,Veg,523,28.87,18.04,3.58
+Milk,Snack,Veg,158,13.09,52.58,9.97
+Banana,Breakfast,Veg,565,22.73,35.68,10.61
+Lentils,Dinner,Veg,597,32.76,68.07,7.38
+Milk,Lunch,Veg,453,22.39,12.37,10.69
+Quinoa,Lunch,Veg,485,22.14,14.05,15.45
+Lentils,Breakfast,Veg,52,22.77,65.12,10.61
+Lentils,Breakfast,Veg,260,16.83,30.63,3.36
+Paneer,Breakfast,Veg,70,10.82,5.2,19.19
+Salmon,Dinner,Non-Veg,273,35.07,12.18,8.72
+Oats,Lunch,Veg,394,27.65,51.64,1.99
+Peanuts,Dinner,Veg,531,38.26,50.66,27.34
+Yogurt,Snack,Veg,513,12.41,60.34,24.62
+Paneer,Breakfast,Veg,370,32.09,34.78,8.45
+Banana,Breakfast,Veg,149,13.28,68.23,20.74
+Broccoli,Snack,Veg,181,17.38,61.33,12.96
+Avocado,Breakfast,Veg,559,17.49,61.78,15.34
+Spinach,Dinner,Veg,293,14.9,7.24,11.32
+Oats,Lunch,Veg,168,22.1,70.26,28.22
+Brown Rice,Dinner,Veg,599,23.32,40.2,12.16
+Tofu,Snack,Veg,282,35.2,55.78,8.71
+Tofu,Breakfast,Veg,512,3.45,79.36,11.45
+Peanuts,Snack,Veg,576,17.1,45.41,24.01
+Yogurt,Lunch,Veg,428,1.1,21.66,10.13
+Salmon,Lunch,Non-Veg,462,34.52,45.98,14.59
+Salmon,Snack,Non-Veg,513,31.0,48.46,21.74
+Sweet Potato,Snack,Veg,590,30.1,53.26,15.97
+Banana,Snack,Veg,89,38.76,24.14,12.41
+Almonds,Lunch,Veg,133,39.12,59.49,26.15
+Apple,Dinner,Veg,441,16.9,74.34,6.57
+Tofu,Lunch,Veg,237,22.94,57.52,6.6
+Spinach,Dinner,Veg,205,26.71,57.09,26.85
+Broccoli,Dinner,Veg,110,34.97,70.1,21.18
+Paneer,Lunch,Veg,106,20.06,16.08,2.72
+Paneer,Dinner,Veg,599,30.61,15.48,27.25
+Spinach,Breakfast,Veg,239,20.41,15.75,11.11
+Carrot,Dinner,Veg,301,23.91,20.81,7.67
+Apple,Snack,Veg,590,10.75,8.72,4.36
+Salmon,Breakfast,Non-Veg,342,34.97,45.21,7.53
+Banana,Lunch,Veg,260,15.18,55.61,2.54
+Paneer,Lunch,Veg,575,21.79,34.78,7.96
+Apple,Breakfast,Veg,553,33.86,46.67,3.0
+Milk,Lunch,Veg,136,38.97,59.96,8.75
+Salmon,Lunch,Non-Veg,458,34.45,75.67,11.73
+Tofu,Dinner,Veg,411,21.68,69.73,23.13
+Chicken Breast,Breakfast,Non-Veg,371,19.51,36.9,3.82
+Chickpeas,Breakfast,Veg,303,10.33,56.93,7.71
+Broccoli,Breakfast,Veg,317,29.34,53.77,28.44
+Spinach,Dinner,Veg,435,8.58,32.87,28.56
+Milk,Dinner,Veg,252,19.05,75.31,17.59
+Brown Rice,Snack,Veg,562,38.49,14.84,16.92
+Quinoa,Breakfast,Veg,358,13.01,46.18,4.49
+Lentils,Dinner,Veg,326,31.99,31.5,19.76
+Peanuts,Breakfast,Veg,430,25.61,23.78,26.78
+Tofu,Snack,Veg,142,5.79,64.92,3.65
+Banana,Dinner,Veg,164,11.06,54.22,17.41
+Apple,Snack,Veg,107,11.79,51.4,28.34
+Orange,Lunch,Veg,518,14.45,37.35,29.25
+Avocado,Dinner,Veg,191,18.56,68.01,19.31
+Salmon,Dinner,Non-Veg,163,20.98,11.3,24.3
+Sweet Potato,Dinner,Veg,561,4.85,24.81,16.91
+Orange,Snack,Veg,320,31.86,38.26,4.57
+Carrot,Lunch,Veg,284,20.62,69.02,16.54
+Oats,Snack,Veg,432,26.1,69.94,6.3
+Paneer,Dinner,Veg,424,8.63,66.09,25.02
+Orange,Lunch,Veg,472,3.04,32.13,1.96
+Carrot,Dinner,Veg,111,6.78,30.5,13.01
+Lentils,Lunch,Veg,529,30.5,23.1,29.25
+Lentils,Breakfast,Veg,590,26.8,9.16,19.43
+Spinach,Lunch,Veg,83,29.71,67.91,29.77
+Almonds,Snack,Veg,596,4.57,60.92,27.76
+Apple,Lunch,Veg,407,31.67,53.43,27.09
+Spinach,Lunch,Veg,88,7.08,55.89,24.7
+Banana,Snack,Veg,168,12.56,38.44,21.59
+Carrot,Dinner,Veg,381,26.86,37.16,19.65
+Almonds,Breakfast,Veg,521,9.83,45.67,3.31
+Avocado,Snack,Veg,260,22.93,64.32,6.3
+Paneer,Snack,Veg,551,33.55,23.98,24.15
+Chickpeas,Breakfast,Veg,369,21.91,20.93,29.2
+Oats,Lunch,Veg,414,11.38,50.67,15.43
+Paneer,Breakfast,Veg,211,2.65,49.51,26.16
+Spinach,Dinner,Veg,102,34.6,38.36,24.76
+Banana,Lunch,Veg,481,36.74,61.77,3.96
+Almonds,Lunch,Veg,561,13.85,8.49,19.85
+Banana,Snack,Veg,119,25.95,7.96,4.6
+Yogurt,Breakfast,Veg,65,35.22,59.97,17.32
+Banana,Snack,Veg,600,15.68,43.17,16.21
+Paneer,Snack,Veg,333,24.02,21.64,17.18
+Peanuts,Snack,Veg,100,1.22,43.19,4.03
+Eggs,Snack,Non-Veg,256,1.58,74.77,16.34
+Tofu,Dinner,Veg,433,27.34,12.53,2.53
+Apple,Dinner,Veg,573,26.68,71.61,4.5
+Lentils,Breakfast,Veg,173,34.86,7.65,29.85
+Spinach,Lunch,Veg,284,12.13,64.0,29.35
+Paneer,Lunch,Veg,370,36.57,54.41,21.76
+Milk,Lunch,Veg,83,23.53,39.52,29.42
+Chicken Breast,Lunch,Non-Veg,113,2.18,9.85,8.83
+Spinach,Dinner,Veg,325,29.87,14.74,2.42
+Orange,Dinner,Veg,134,32.26,24.45,18.19
+Quinoa,Snack,Veg,237,14.49,31.38,21.48
+Eggs,Snack,Non-Veg,301,23.59,18.32,18.67
+Oats,Lunch,Veg,195,21.98,50.76,16.28
+Paneer,Lunch,Veg,392,1.12,27.37,6.18
+Salmon,Dinner,Non-Veg,590,17.86,19.15,10.55
+Almonds,Lunch,Veg,279,28.8,24.33,6.87
+Eggs,Snack,Non-Veg,543,10.05,46.18,15.19
+Peanuts,Lunch,Veg,278,11.69,60.59,13.08
+Spinach,Breakfast,Veg,163,28.45,54.6,27.42
+Avocado,Dinner,Veg,498,32.34,34.24,21.48
+Avocado,Snack,Veg,500,23.08,19.19,22.27
+Milk,Breakfast,Veg,389,29.35,43.78,24.05
+Avocado,Snack,Veg,178,20.62,68.42,2.34
+Orange,Dinner,Veg,273,36.28,38.44,23.96
+Eggs,Dinner,Non-Veg,411,18.65,56.85,7.46
+Apple,Dinner,Veg,84,8.66,22.67,20.63
+Tofu,Dinner,Veg,325,20.84,63.06,26.88
+Lentils,Snack,Veg,65,8.75,52.78,19.07
+Lentils,Snack,Veg,106,25.25,53.87,22.66
+Broccoli,Snack,Veg,361,38.82,12.12,5.24
+Tofu,Breakfast,Veg,193,23.57,20.44,7.55
+Sweet Potato,Lunch,Veg,426,4.51,27.68,2.07
+Lentils,Lunch,Veg,370,39.72,51.16,14.72
+Orange,Breakfast,Veg,359,25.77,31.03,23.82
+Almonds,Lunch,Veg,124,36.02,74.17,14.7
+Spinach,Breakfast,Veg,340,29.5,54.6,4.6
+Spinach,Breakfast,Veg,564,29.29,76.37,1.86
+Broccoli,Snack,Veg,529,2.72,72.54,2.97
+Yogurt,Breakfast,Veg,50,3.12,7.42,18.72
+Orange,Snack,Veg,193,26.63,77.41,25.78
+Apple,Breakfast,Veg,518,21.19,19.15,9.37
+Avocado,Dinner,Veg,380,7.44,9.91,29.73
+Eggs,Dinner,Non-Veg,294,33.41,79.06,17.64
+Avocado,Dinner,Veg,503,14.79,76.14,13.63
+Lentils,Lunch,Veg,122,18.71,47.82,1.78
+Apple,Snack,Veg,288,13.4,65.88,7.85
+Yogurt,Breakfast,Veg,478,15.49,79.12,11.58
+Orange,Dinner,Veg,561,39.33,13.33,4.05
+Banana,Lunch,Veg,78,26.44,74.54,2.43
+Eggs,Snack,Non-Veg,168,23.17,26.49,17.46
+Salmon,Dinner,Non-Veg,379,24.7,69.49,7.86
+Orange,Lunch,Veg,497,21.33,19.69,26.24
+Banana,Breakfast,Veg,239,35.64,28.88,12.56
+Spinach,Snack,Veg,301,30.49,54.34,22.15
+Quinoa,Dinner,Veg,138,25.82,47.35,21.88
+Milk,Breakfast,Veg,61,27.69,71.13,11.58
+Almonds,Dinner,Veg,516,17.53,53.09,21.04
+Avocado,Breakfast,Veg,366,19.94,14.28,7.59
+Almonds,Lunch,Veg,440,1.65,78.92,26.39
+Tofu,Lunch,Veg,412,5.39,74.62,15.25
+Almonds,Lunch,Veg,376,16.61,39.76,22.2
+Salmon,Dinner,Non-Veg,527,18.02,66.41,28.24
+Eggs,Breakfast,Non-Veg,303,5.35,66.09,2.01
+Avocado,Snack,Veg,407,27.21,67.75,18.92
+Paneer,Dinner,Veg,440,23.97,54.65,18.68
+Banana,Lunch,Veg,92,23.53,51.27,13.3
+Spinach,Breakfast,Veg,214,25.45,36.07,14.24
+Banana,Lunch,Veg,279,33.16,28.69,20.05
+Oats,Snack,Veg,376,27.38,77.59,19.72
+Carrot,Dinner,Veg,340,29.72,69.08,4.98
+Chickpeas,Snack,Veg,195,29.62,16.02,18.36
+Yogurt,Breakfast,Veg,80,17.27,45.59,18.38
+Chicken Breast,Dinner,Non-Veg,310,23.58,43.5,25.46
+Spinach,Snack,Veg,382,37.63,62.44,20.9
+Lentils,Snack,Veg,274,35.82,79.75,2.72
+Chickpeas,Breakfast,Veg,146,22.93,15.53,14.75
+Apple,Dinner,Veg,318,27.26,64.18,8.64
+Paneer,Breakfast,Veg,512,27.42,19.46,9.81
+Spinach,Snack,Veg,58,10.32,73.56,2.86
+Broccoli,Dinner,Veg,350,36.32,50.44,4.86
+Banana,Lunch,Veg,290,5.26,23.46,18.06
+Orange,Breakfast,Veg,547,2.86,28.73,7.8
+Peanuts,Lunch,Veg,346,1.91,49.18,18.03
+Carrot,Breakfast,Veg,377,25.68,33.07,26.88
+Oats,Lunch,Veg,284,4.45,58.33,17.7
+Yogurt,Dinner,Veg,114,38.9,42.74,27.47
+Sweet Potato,Breakfast,Veg,555,1.24,45.66,17.27
+Paneer,Dinner,Veg,560,26.93,21.12,11.94
+Spinach,Lunch,Veg,69,21.2,63.31,9.18
+Paneer,Snack,Veg,465,37.73,19.46,21.26
+Brown Rice,Snack,Veg,472,33.91,31.82,19.58
+Chicken Breast,Dinner,Non-Veg,461,10.04,77.66,10.6
+Yogurt,Lunch,Veg,215,3.56,74.57,6.41
+Brown Rice,Dinner,Veg,289,27.48,75.09,17.61
+Salmon,Lunch,Non-Veg,348,13.23,22.95,14.83
+Spinach,Dinner,Veg,281,29.95,62.22,24.53
+Lentils,Snack,Veg,547,19.95,14.67,17.47
+Eggs,Dinner,Non-Veg,404,35.97,59.04,28.71
+Apple,Snack,Veg,441,26.92,23.44,5.47
+Chicken Breast,Dinner,Non-Veg,586,25.9,29.28,28.88
+Yogurt,Lunch,Veg,433,21.52,16.1,4.99
+Oats,Dinner,Veg,553,22.86,10.71,8.5
+Quinoa,Snack,Veg,469,30.36,25.48,4.28
+Banana,Snack,Veg,268,3.36,65.44,20.11
+Brown Rice,Dinner,Veg,440,7.29,35.68,13.28
+Paneer,Breakfast,Veg,371,31.03,45.23,5.08
+Quinoa,Dinner,Veg,528,16.68,41.88,2.3
+Broccoli,Snack,Veg,152,2.93,74.2,29.37
+Banana,Lunch,Veg,117,34.13,42.26,5.07
+Chickpeas,Dinner,Veg,376,35.7,33.97,5.7
+Yogurt,Dinner,Veg,258,11.71,67.45,24.2
+Broccoli,Breakfast,Veg,260,25.37,43.77,3.33
+Chicken Breast,Breakfast,Non-Veg,280,16.54,18.81,25.37
+Almonds,Snack,Veg,231,5.51,57.29,23.89
+Avocado,Lunch,Veg,389,12.5,52.97,26.8
+Brown Rice,Breakfast,Veg,182,16.25,55.18,6.09
+Sweet Potato,Dinner,Veg,400,12.55,59.56,2.44
+Orange,Dinner,Veg,468,21.74,40.04,20.4
+Chickpeas,Snack,Veg,552,6.85,7.1,20.06
+Banana,Breakfast,Veg,400,28.79,62.08,2.9
+Lentils,Breakfast,Veg,388,38.15,14.56,26.66
+Orange,Breakfast,Veg,309,24.22,12.08,10.54
+Spinach,Dinner,Veg,344,38.76,34.03,10.16
+Lentils,Lunch,Veg,292,15.3,42.75,21.17
+Tofu,Breakfast,Veg,325,35.85,63.97,8.51
+Paneer,Dinner,Veg,255,4.46,64.11,12.18
+Milk,Dinner,Veg,324,31.33,49.94,23.17
+Chicken Breast,Breakfast,Non-Veg,181,16.29,17.11,17.97
+Banana,Dinner,Veg,80,5.11,25.05,22.67
+Orange,Snack,Veg,310,4.24,61.58,29.71
+Quinoa,Breakfast,Veg,507,24.28,5.56,29.39
+Milk,Snack,Veg,109,35.65,66.29,11.13
+Quinoa,Dinner,Veg,125,30.07,68.27,3.94
+Lentils,Dinner,Veg,182,15.38,47.95,16.62
+Paneer,Dinner,Veg,258,26.26,6.06,13.55
+Brown Rice,Snack,Veg,596,22.91,36.44,16.92
+Yogurt,Dinner,Veg,319,33.14,72.49,11.59
+Tofu,Lunch,Veg,251,18.85,73.44,20.06
+Tofu,Breakfast,Veg,119,17.84,36.11,11.76
+Sweet Potato,Breakfast,Veg,307,26.65,49.66,25.38
+Oats,Breakfast,Veg,485,20.3,24.6,28.71
+Peanuts,Dinner,Veg,130,5.27,68.7,20.68
+Orange,Breakfast,Veg,106,12.67,64.06,24.18
+Avocado,Breakfast,Veg,192,21.63,23.11,9.68
+Spinach,Breakfast,Veg,295,4.55,30.91,6.01
+Carrot,Breakfast,Veg,147,5.23,26.26,13.03
+Avocado,Dinner,Veg,66,5.0,58.61,20.31
+Banana,Lunch,Veg,265,9.51,53.91,4.9
+Eggs,Lunch,Non-Veg,580,36.22,32.34,17.65
+Salmon,Snack,Non-Veg,59,3.83,23.1,3.37
+Spinach,Dinner,Veg,329,28.67,40.49,18.27
+Broccoli,Breakfast,Veg,530,2.1,13.08,5.36
+Sweet Potato,Breakfast,Veg,316,18.88,36.04,10.5
+Chickpeas,Snack,Veg,321,18.93,27.42,23.08
+Salmon,Dinner,Non-Veg,283,30.4,14.78,29.29
+Peanuts,Lunch,Veg,408,12.99,61.73,21.28
+Salmon,Lunch,Non-Veg,561,30.51,16.85,18.74
+Peanuts,Dinner,Veg,83,7.6,5.3,19.86
+Banana,Lunch,Veg,599,8.9,77.24,7.12
+Peanuts,Dinner,Veg,440,11.21,73.41,1.47
+Broccoli,Lunch,Veg,380,6.45,74.54,30.0
+Quinoa,Breakfast,Veg,79,37.27,19.51,21.04
+Oats,Dinner,Veg,528,16.42,57.77,7.24
+Chickpeas,Breakfast,Veg,162,28.66,28.27,15.24
+Broccoli,Snack,Veg,109,25.06,8.82,7.97
+Paneer,Snack,Veg,189,5.79,49.48,9.54
+Almonds,Dinner,Veg,485,15.55,62.45,10.76
+Quinoa,Snack,Veg,100,25.2,59.0,13.32
+Lentils,Dinner,Veg,357,7.95,61.88,24.91
+Paneer,Dinner,Veg,214,17.23,31.16,7.99
+Chickpeas,Snack,Veg,69,5.5,62.5,11.69
+Apple,Dinner,Veg,242,8.09,30.21,6.87
+Milk,Snack,Veg,462,36.52,8.57,12.74
+Paneer,Snack,Veg,200,9.09,52.77,19.34
+Tofu,Lunch,Veg,87,2.56,13.14,6.39
+Paneer,Breakfast,Veg,237,7.72,18.58,24.82
+Quinoa,Dinner,Veg,339,36.17,42.31,26.42
+Chicken Breast,Dinner,Non-Veg,191,11.98,64.4,18.95
+Almonds,Breakfast,Veg,212,34.31,29.87,3.98
+Eggs,Snack,Non-Veg,541,3.81,65.3,20.43
+Broccoli,Breakfast,Veg,218,11.21,30.81,4.65
+Carrot,Dinner,Veg,132,35.37,57.47,24.35
+Almonds,Breakfast,Veg,450,30.63,74.91,22.35
+Apple,Breakfast,Veg,195,25.92,62.78,29.12
+Orange,Breakfast,Veg,578,7.88,7.99,26.7
+Salmon,Dinner,Non-Veg,233,19.19,32.34,20.8
+Chickpeas,Breakfast,Veg,459,17.92,37.96,13.4
+Eggs,Lunch,Non-Veg,240,20.58,22.69,12.12
+Salmon,Lunch,Non-Veg,566,34.79,16.06,20.37
+Apple,Breakfast,Veg,92,29.45,46.39,21.73
+Salmon,Dinner,Non-Veg,154,7.38,74.36,8.87
+Salmon,Snack,Non-Veg,448,37.46,60.72,3.01
+Paneer,Dinner,Veg,260,12.99,56.53,29.44
+Chicken Breast,Snack,Non-Veg,127,22.47,60.12,3.68
+Spinach,Breakfast,Veg,136,25.95,35.21,8.2
+Brown Rice,Snack,Veg,318,3.31,32.04,2.01
+Spinach,Snack,Veg,340,21.84,58.79,3.23
+Spinach,Breakfast,Veg,458,4.38,13.98,12.97
+Lentils,Lunch,Veg,119,23.88,12.69,9.98
+Chicken Breast,Lunch,Non-Veg,103,4.37,47.8,9.92
+Yogurt,Dinner,Veg,484,28.02,36.54,3.6
+Salmon,Breakfast,Non-Veg,234,1.8,59.67,2.91
+Peanuts,Lunch,Veg,354,29.92,22.67,24.31
+Avocado,Lunch,Veg,174,29.42,32.9,5.2
+Apple,Snack,Veg,162,37.77,58.23,27.83
+Carrot,Lunch,Veg,474,11.8,44.6,28.72
+Paneer,Lunch,Veg,367,29.62,15.73,14.63
+Milk,Breakfast,Veg,118,8.54,46.39,19.04
+Quinoa,Dinner,Veg,518,37.24,15.5,27.59
+Quinoa,Lunch,Veg,216,36.38,65.16,27.18
+Orange,Lunch,Veg,193,27.75,73.87,4.87
+Chicken Breast,Snack,Non-Veg,267,32.58,58.49,6.91
+Chickpeas,Breakfast,Veg,169,22.74,79.97,5.08
+Chickpeas,Lunch,Veg,498,24.83,10.17,7.87
+Apple,Dinner,Veg,600,27.86,67.8,20.16
+Chickpeas,Dinner,Veg,434,34.22,43.55,4.91
+Almonds,Snack,Veg,172,9.12,8.7,13.28
+Almonds,Breakfast,Veg,327,27.97,41.32,19.89
+Almonds,Lunch,Veg,106,19.45,57.25,9.42
+Chicken Breast,Breakfast,Non-Veg,438,38.21,13.47,20.48
+Brown Rice,Snack,Veg,496,3.64,65.67,14.61
+Banana,Breakfast,Veg,220,11.9,11.04,11.28
+Sweet Potato,Lunch,Veg,121,23.49,42.03,29.75
+Orange,Lunch,Veg,122,20.48,57.2,29.76
+Oats,Snack,Veg,148,28.9,65.92,25.89
+Peanuts,Snack,Veg,540,25.12,47.0,19.25
+Salmon,Snack,Non-Veg,576,20.78,26.0,3.94
+Milk,Dinner,Veg,90,30.39,8.79,26.73
+Chickpeas,Breakfast,Veg,445,1.54,41.7,7.41
+Yogurt,Breakfast,Veg,315,32.71,30.56,5.53
+Paneer,Lunch,Veg,566,21.6,71.35,28.58
+Tofu,Breakfast,Veg,121,3.93,19.23,6.62
+Brown Rice,Lunch,Veg,500,37.73,39.66,19.04
+Salmon,Breakfast,Non-Veg,290,18.45,13.55,19.87
+Brown Rice,Snack,Veg,73,12.45,6.07,4.58
+Peanuts,Dinner,Veg,135,15.97,67.07,5.43
+Eggs,Snack,Non-Veg,129,31.05,57.13,25.32
+Sweet Potato,Dinner,Veg,77,26.5,58.73,2.14
+Quinoa,Breakfast,Veg,468,15.35,10.59,22.29
+Chicken Breast,Breakfast,Non-Veg,317,16.5,48.02,25.27
+Yogurt,Snack,Veg,445,22.9,63.86,26.13
+Eggs,Snack,Non-Veg,381,1.56,65.99,27.51
+Salmon,Breakfast,Non-Veg,422,20.75,45.58,8.49
+Peanuts,Dinner,Veg,71,8.08,21.26,18.52
+Paneer,Snack,Veg,243,32.9,40.77,24.86
+Brown Rice,Lunch,Veg,53,3.87,40.77,29.11
+Oats,Dinner,Veg,334,34.05,12.86,3.53
+Chicken Breast,Snack,Non-Veg,189,5.42,37.13,29.37
+Tofu,Lunch,Veg,533,14.34,48.1,5.05
+Sweet Potato,Snack,Veg,451,23.24,32.08,17.88
+Avocado,Snack,Veg,276,29.24,59.0,19.3
+Paneer,Dinner,Veg,93,17.31,5.29,20.72
+Paneer,Dinner,Veg,295,38.74,56.76,19.26
+Quinoa,Dinner,Veg,122,7.83,62.37,16.15
+Chicken Breast,Breakfast,Non-Veg,176,28.57,67.77,1.57
+Eggs,Dinner,Non-Veg,538,5.03,21.46,4.62
+Chickpeas,Lunch,Veg,92,36.55,38.3,4.77
+Paneer,Breakfast,Veg,254,25.39,47.49,29.84
+Banana,Lunch,Veg,522,30.21,5.52,10.57
+Brown Rice,Breakfast,Veg,71,30.45,10.15,21.74
+Brown Rice,Breakfast,Veg,570,15.92,24.93,12.84
+Chicken Breast,Breakfast,Non-Veg,263,5.59,19.27,15.27
+Oats,Breakfast,Veg,496,12.66,25.34,9.62
+Chicken Breast,Lunch,Non-Veg,434,6.32,34.17,28.53
+Salmon,Breakfast,Non-Veg,230,2.7,74.96,17.45
+Eggs,Lunch,Non-Veg,398,28.49,74.89,19.05
+Broccoli,Breakfast,Veg,353,16.36,67.92,27.54
+Chickpeas,Snack,Veg,575,6.23,60.27,16.1
+Lentils,Breakfast,Veg,486,33.34,20.27,23.08
+Oats,Lunch,Veg,480,5.33,64.79,16.41
+Salmon,Dinner,Non-Veg,363,11.56,28.23,7.47
+Salmon,Snack,Non-Veg,479,8.21,47.09,8.33
+Quinoa,Lunch,Veg,525,2.63,45.43,12.45
+Sweet Potato,Lunch,Veg,597,22.25,61.64,15.65
+Oats,Lunch,Veg,533,36.96,29.3,15.75
+Lentils,Dinner,Veg,481,26.1,40.27,4.03
+Peanuts,Breakfast,Veg,471,38.1,34.49,12.06
+Avocado,Snack,Veg,66,7.48,55.65,15.75
+Banana,Dinner,Veg,365,10.56,18.16,14.47
+Chickpeas,Snack,Veg,301,1.17,30.23,7.15
+Paneer,Lunch,Veg,110,34.55,20.23,15.86
+Quinoa,Dinner,Veg,138,20.12,38.38,21.66
+Carrot,Lunch,Veg,76,28.75,26.09,26.54
+Apple,Dinner,Veg,219,11.54,49.86,26.07
+Orange,Dinner,Veg,231,13.94,69.8,22.63
+Milk,Dinner,Veg,150,6.81,7.04,14.33
+Oats,Lunch,Veg,519,20.85,66.78,6.16
+Paneer,Snack,Veg,270,8.71,76.43,26.38
+Paneer,Snack,Veg,511,27.63,25.83,16.99
+Avocado,Snack,Veg,458,30.85,46.08,12.67
+Yogurt,Dinner,Veg,453,14.83,14.66,20.21
+Orange,Lunch,Veg,86,19.41,17.08,19.87
+Spinach,Dinner,Veg,144,26.44,40.45,6.43
+Carrot,Lunch,Veg,445,12.82,44.94,21.22
+Chicken Breast,Breakfast,Non-Veg,98,20.2,77.15,7.21
+Yogurt,Dinner,Veg,58,4.73,23.48,20.39
+Eggs,Snack,Non-Veg,599,27.01,55.1,11.52
+Brown Rice,Snack,Veg,79,17.95,72.03,19.0
+Sweet Potato,Dinner,Veg,302,16.46,8.3,6.66
+Apple,Dinner,Veg,315,22.3,41.86,7.69
+Brown Rice,Dinner,Veg,120,15.89,51.61,27.84
+Avocado,Snack,Veg,255,20.34,32.26,8.8
+Banana,Lunch,Veg,566,12.3,52.41,4.25
+Apple,Breakfast,Veg,183,30.27,43.36,28.19
+Quinoa,Breakfast,Veg,388,25.59,8.98,25.68
+Salmon,Dinner,Non-Veg,227,29.55,35.55,6.16
+Apple,Lunch,Veg,95,37.47,68.64,26.44
+Chickpeas,Lunch,Veg,486,12.09,44.03,2.73
+Carrot,Lunch,Veg,592,15.14,68.68,7.82
+Chicken Breast,Snack,Non-Veg,153,12.94,66.01,22.44
+Carrot,Breakfast,Veg,177,27.75,44.38,27.71
+Eggs,Breakfast,Non-Veg,432,26.97,36.83,16.71
+Yogurt,Dinner,Veg,131,15.52,62.31,13.44
+Eggs,Snack,Non-Veg,583,20.77,33.51,23.19
+Broccoli,Dinner,Veg,394,19.59,19.25,20.38
+Tofu,Breakfast,Veg,556,11.43,44.83,12.1
+Avocado,Dinner,Veg,182,21.76,18.15,24.64
+Chickpeas,Dinner,Veg,465,30.21,20.8,23.06
+Orange,Dinner,Veg,443,36.32,67.39,16.59
+Almonds,Snack,Veg,331,19.7,55.6,24.0
+Oats,Snack,Veg,229,11.24,23.0,23.25
+Chicken Breast,Snack,Non-Veg,444,12.1,43.33,19.19
+Paneer,Dinner,Veg,398,36.53,8.64,23.07
+Avocado,Dinner,Veg,168,30.9,60.89,8.25
+Oats,Breakfast,Veg,215,31.71,23.96,29.46
+Broccoli,Lunch,Veg,511,21.84,36.16,9.95
+Oats,Lunch,Veg,462,6.83,72.88,3.63
+Chicken Breast,Breakfast,Non-Veg,190,39.63,24.9,27.23
+Avocado,Dinner,Veg,94,2.9,43.25,19.69
+Banana,Breakfast,Veg,559,1.74,66.23,5.82
+Yogurt,Lunch,Veg,581,4.19,20.99,14.21
+Oats,Dinner,Veg,598,19.56,75.5,8.21
+Chicken Breast,Breakfast,Non-Veg,64,1.1,48.6,12.0
+Eggs,Lunch,Non-Veg,380,15.67,56.67,1.92
+Apple,Dinner,Veg,348,29.13,40.03,22.36
+Avocado,Snack,Veg,74,33.23,78.39,13.71
+Salmon,Lunch,Non-Veg,423,32.31,45.09,9.09
+Chickpeas,Dinner,Veg,352,28.54,64.6,14.27
+Peanuts,Lunch,Veg,495,2.03,39.93,28.52
+Quinoa,Dinner,Veg,158,2.28,18.52,7.91
+Salmon,Snack,Non-Veg,327,29.57,55.76,15.89
+Banana,Lunch,Veg,555,33.83,22.49,2.77
+Yogurt,Breakfast,Veg,79,39.32,71.6,5.62
+Yogurt,Lunch,Veg,58,9.15,67.81,7.14
+Spinach,Dinner,Veg,533,14.97,5.1,10.59
+Orange,Dinner,Veg,492,22.19,54.74,5.24
+Peanuts,Lunch,Veg,243,27.8,34.07,29.3
+Chickpeas,Snack,Veg,465,18.44,20.54,3.2
+Oats,Dinner,Veg,161,13.51,29.71,6.74
+Paneer,Breakfast,Veg,261,6.06,37.49,15.4
+Quinoa,Dinner,Veg,91,14.9,32.72,25.38
+Chickpeas,Dinner,Veg,178,31.47,79.77,28.61
+Paneer,Lunch,Veg,401,18.04,45.38,20.49
+Almonds,Breakfast,Veg,249,11.73,36.18,3.98
+Spinach,Breakfast,Veg,349,10.73,71.24,27.89
+Chicken Breast,Lunch,Non-Veg,477,35.35,25.49,7.72
+Orange,Snack,Veg,60,22.82,26.71,15.74
+Spinach,Snack,Veg,506,22.06,33.22,22.31
+Eggs,Lunch,Non-Veg,317,20.9,11.72,1.31
+Banana,Snack,Veg,170,26.98,35.46,20.69
+Carrot,Snack,Veg,538,24.21,18.65,8.76
+Banana,Dinner,Veg,111,39.61,66.99,17.95
+Apple,Snack,Veg,467,31.52,6.73,27.39
+Orange,Dinner,Veg,232,29.04,35.51,17.88
+Avocado,Snack,Veg,336,15.75,39.77,11.81
+Paneer,Dinner,Veg,579,16.38,14.45,16.97
+Almonds,Dinner,Veg,74,11.07,35.34,19.72
+Tofu,Dinner,Veg,159,18.86,47.72,20.61
+Orange,Lunch,Veg,353,8.84,58.39,27.81
+Spinach,Snack,Veg,248,10.84,75.21,1.92
+Apple,Dinner,Veg,462,15.79,75.56,13.41
+Carrot,Snack,Veg,251,24.69,53.42,23.8
+Eggs,Dinner,Non-Veg,479,36.77,71.33,5.74
+Paneer,Snack,Veg,463,17.3,6.67,1.97
+Avocado,Lunch,Veg,598,21.78,45.06,13.83
+Spinach,Breakfast,Veg,503,4.87,24.43,16.78
+Avocado,Breakfast,Veg,283,36.7,37.46,7.49
+Broccoli,Breakfast,Veg,295,18.55,13.72,12.79
+Salmon,Dinner,Non-Veg,164,31.42,47.98,12.42
+Tofu,Dinner,Veg,54,25.28,5.65,8.95
+Sweet Potato,Lunch,Veg,429,8.28,20.56,16.47
+Tofu,Lunch,Veg,177,36.67,5.23,27.36
+Milk,Breakfast,Veg,466,23.62,30.22,4.41
+Eggs,Snack,Non-Veg,343,11.6,76.96,17.42
+Lentils,Dinner,Veg,229,15.71,34.35,27.94
+Milk,Dinner,Veg,314,22.15,22.49,22.51
+Quinoa,Dinner,Veg,486,29.21,72.03,17.75
+Broccoli,Lunch,Veg,365,1.5,27.88,4.08
+Chickpeas,Lunch,Veg,541,37.93,30.73,24.84
+Orange,Lunch,Veg,57,20.05,51.06,1.44
+Almonds,Breakfast,Veg,547,29.05,19.47,17.28
+Milk,Lunch,Veg,76,4.97,18.9,23.14
+Quinoa,Breakfast,Veg,487,29.02,9.14,20.09
+Oats,Dinner,Veg,134,7.57,60.21,13.03
+Brown Rice,Lunch,Veg,427,21.96,44.62,15.77
+Orange,Breakfast,Veg,61,3.48,17.21,25.42
+Milk,Lunch,Veg,335,36.6,23.41,15.53
+Banana,Lunch,Veg,521,38.8,50.15,15.76
+Paneer,Dinner,Veg,442,12.34,52.99,10.81
+Salmon,Breakfast,Non-Veg,220,17.97,38.21,6.76
+Salmon,Dinner,Non-Veg,334,38.89,22.16,21.52
+Orange,Snack,Veg,112,10.06,74.93,17.34
+Eggs,Dinner,Non-Veg,53,27.48,32.21,3.3
+Yogurt,Snack,Veg,307,19.67,30.25,21.03
+Sweet Potato,Lunch,Veg,449,18.6,66.79,17.03
+Oats,Lunch,Veg,167,18.57,27.72,2.48
+Chicken Breast,Dinner,Non-Veg,537,8.67,34.51,26.26
+Milk,Breakfast,Veg,539,13.06,72.15,27.86
+Oats,Lunch,Veg,278,39.22,19.79,25.85
+Yogurt,Lunch,Veg,225,8.04,56.95,6.23
+Orange,Snack,Veg,62,24.24,62.16,23.01
+Eggs,Snack,Non-Veg,176,30.94,61.01,4.18
+Milk,Lunch,Veg,183,4.95,57.48,15.02
+Sweet Potato,Snack,Veg,180,14.74,12.88,8.68
+Brown Rice,Snack,Veg,560,19.25,49.97,2.4
+Orange,Dinner,Veg,295,2.96,25.44,5.27
+Yogurt,Snack,Veg,396,31.55,17.74,8.58
+Milk,Lunch,Veg,282,38.72,65.42,17.96
+Spinach,Breakfast,Veg,423,21.05,59.6,19.2
+Spinach,Lunch,Veg,297,32.75,79.26,10.24
+Carrot,Lunch,Veg,570,33.55,36.46,25.82
+Broccoli,Lunch,Veg,348,22.98,50.77,16.69
+Chicken Breast,Dinner,Non-Veg,84,4.22,19.89,9.72
+Lentils,Dinner,Veg,407,24.18,34.34,2.09
+Apple,Lunch,Veg,584,19.81,79.33,15.91
+Quinoa,Dinner,Veg,273,28.98,23.34,20.32
+Brown Rice,Snack,Veg,128,28.75,13.19,22.46
+Eggs,Dinner,Non-Veg,155,9.55,63.43,17.41
+Carrot,Snack,Veg,393,19.41,50.02,15.11
+Chickpeas,Breakfast,Veg,347,13.21,13.57,11.58
+Quinoa,Breakfast,Veg,183,11.51,25.21,25.35
+Almonds,Dinner,Veg,274,35.15,29.91,7.79
+Chicken Breast,Lunch,Non-Veg,505,36.28,8.8,24.75
+Chicken Breast,Breakfast,Non-Veg,192,26.39,18.41,9.06
+Broccoli,Dinner,Veg,469,31.5,44.74,6.26
+Almonds,Breakfast,Veg,594,31.13,45.75,11.16
+Oats,Snack,Veg,173,30.64,11.66,14.8
+Banana,Lunch,Veg,372,35.67,20.8,19.89
+Broccoli,Snack,Veg,199,19.1,6.09,22.81
+Carrot,Lunch,Veg,449,13.93,10.61,15.77
+Yogurt,Dinner,Veg,448,13.92,45.27,25.77
+Oats,Dinner,Veg,564,19.8,60.4,27.75
+Almonds,Breakfast,Veg,142,38.44,77.54,1.88
+Salmon,Breakfast,Non-Veg,472,14.27,53.31,21.05
+Sweet Potato,Lunch,Veg,494,10.92,9.16,18.0
+Chickpeas,Snack,Veg,60,3.94,45.63,20.03
+Spinach,Dinner,Veg,522,35.3,33.42,28.62
+Banana,Snack,Veg,293,3.0,48.17,13.81
+Peanuts,Breakfast,Veg,316,5.14,36.07,22.23
+Brown Rice,Breakfast,Veg,242,17.24,72.79,8.81
+Chicken Breast,Snack,Non-Veg,439,33.66,15.03,11.33
+Tofu,Dinner,Veg,349,32.41,46.9,2.08
+Almonds,Snack,Veg,255,17.51,16.23,2.04
+Chicken Breast,Dinner,Non-Veg,425,3.89,29.66,4.99
+Paneer,Lunch,Veg,80,25.99,79.98,20.27
+Chickpeas,Snack,Veg,408,6.95,41.24,15.65
+Avocado,Snack,Veg,418,39.74,37.38,23.87
+Spinach,Dinner,Veg,257,26.25,48.17,14.43
+Eggs,Dinner,Non-Veg,476,28.68,57.86,6.65
+Peanuts,Breakfast,Veg,572,10.13,34.35,9.96
+Peanuts,Breakfast,Veg,342,14.96,66.4,12.88
+Brown Rice,Dinner,Veg,289,39.64,57.25,7.95
+Paneer,Lunch,Veg,373,24.39,48.97,26.71
+Carrot,Snack,Veg,215,26.41,26.76,17.39
+Carrot,Breakfast,Veg,252,3.73,71.17,29.01
+Milk,Breakfast,Veg,134,8.93,65.54,2.76
+Spinach,Snack,Veg,501,3.22,57.15,7.13
+Quinoa,Snack,Veg,158,1.73,16.57,22.91
+Sweet Potato,Breakfast,Veg,311,29.51,37.22,9.88
+Oats,Snack,Veg,380,27.13,76.15,21.95
+Chickpeas,Snack,Veg,472,6.39,33.87,16.15
+Carrot,Dinner,Veg,343,33.05,19.8,10.76
+Apple,Breakfast,Veg,542,23.44,53.85,26.77
+Yogurt,Lunch,Veg,489,11.0,70.05,3.17
+Spinach,Breakfast,Veg,174,24.33,51.43,27.61
+Sweet Potato,Lunch,Veg,396,8.85,74.84,2.81
+Milk,Snack,Veg,110,5.56,76.86,20.96
+Eggs,Dinner,Non-Veg,252,31.01,25.65,18.33
+Banana,Dinner,Veg,539,6.75,64.55,3.19
+Chickpeas,Breakfast,Veg,494,6.27,57.9,11.24
+Oats,Snack,Veg,224,34.17,48.27,1.28
+Carrot,Breakfast,Veg,396,11.58,62.63,3.36
+Peanuts,Snack,Veg,268,8.74,75.34,28.4
+Avocado,Snack,Veg,406,5.03,34.21,26.63
+Peanuts,Dinner,Veg,493,31.8,76.32,26.6
+Carrot,Snack,Veg,258,5.44,18.28,5.89
+Chicken Breast,Dinner,Non-Veg,379,24.16,77.52,16.68
+Brown Rice,Dinner,Veg,416,27.19,40.26,22.85
+Peanuts,Dinner,Veg,176,3.12,45.76,16.41
+Lentils,Dinner,Veg,255,23.66,60.11,7.63
+Eggs,Breakfast,Non-Veg,180,15.73,46.15,19.06
+Banana,Lunch,Veg,110,15.69,45.09,5.81
+Carrot,Breakfast,Veg,158,28.2,61.02,17.21
+Avocado,Snack,Veg,181,39.27,75.24,28.2
+Quinoa,Lunch,Veg,335,4.48,17.41,3.59
+Spinach,Snack,Veg,301,30.87,77.18,9.16
+Almonds,Breakfast,Veg,115,11.85,73.44,16.54
+Quinoa,Lunch,Veg,509,33.53,6.72,6.84
+Chickpeas,Dinner,Veg,499,27.32,36.12,19.57
+Yogurt,Lunch,Veg,537,5.69,33.17,9.85
+Tofu,Lunch,Veg,80,14.22,30.83,12.03
+Banana,Breakfast,Veg,574,19.14,45.92,14.21
+Tofu,Snack,Veg,216,10.07,73.18,19.97
+Spinach,Breakfast,Veg,453,8.65,17.12,13.81
+Broccoli,Snack,Veg,316,27.18,11.42,23.93
+Oats,Lunch,Veg,180,7.26,14.25,26.95
+Avocado,Dinner,Veg,309,30.28,72.49,17.01
+Peanuts,Lunch,Veg,51,8.11,24.2,5.21
+Oats,Dinner,Veg,482,19.54,25.87,18.29
+Tofu,Snack,Veg,327,16.35,48.13,27.91
+Brown Rice,Lunch,Veg,525,9.78,51.95,11.02
+Chickpeas,Snack,Veg,146,8.06,21.44,6.35
+Peanuts,Dinner,Veg,595,1.33,29.57,24.97
+Lentils,Breakfast,Veg,52,25.38,38.98,1.26
+Milk,Dinner,Veg,399,2.78,25.09,11.53
+Chicken Breast,Dinner,Non-Veg,349,5.7,66.09,12.27
+Milk,Breakfast,Veg,89,4.42,8.71,26.6
+Chicken Breast,Lunch,Non-Veg,414,2.97,41.83,3.82
+Lentils,Breakfast,Veg,57,39.31,58.98,8.44
+Carrot,Snack,Veg,536,12.11,24.17,15.86
+Almonds,Breakfast,Veg,387,37.46,37.0,20.48
+Spinach,Lunch,Veg,452,28.5,12.81,23.67
+Peanuts,Lunch,Veg,123,3.61,28.9,3.41
+Salmon,Snack,Non-Veg,518,30.43,21.17,14.5
+Orange,Breakfast,Veg,120,2.99,27.3,5.25
+Carrot,Dinner,Veg,234,28.6,61.41,1.93
+Milk,Dinner,Veg,371,14.78,47.57,3.77
+Brown Rice,Dinner,Veg,420,6.09,69.61,5.51
+Almonds,Breakfast,Veg,197,6.63,13.31,3.92
+Yogurt,Lunch,Veg,296,5.59,71.75,23.31
+Oats,Snack,Veg,134,37.28,24.44,7.23
+Yogurt,Snack,Veg,351,17.86,41.46,18.48
+Broccoli,Breakfast,Veg,595,16.2,38.31,17.07
+Milk,Lunch,Veg,534,39.56,6.21,23.66
+Spinach,Breakfast,Veg,306,23.11,32.69,4.37
+Milk,Snack,Veg,324,16.83,30.39,12.06
+Salmon,Snack,Non-Veg,534,4.08,75.27,5.04
+Spinach,Lunch,Veg,173,4.78,7.91,4.35
+Sweet Potato,Snack,Veg,251,3.23,57.42,21.09
+Oats,Dinner,Veg,349,21.8,12.01,3.75
+Lentils,Lunch,Veg,516,38.36,75.23,18.42
+Quinoa,Breakfast,Veg,386,8.93,30.02,23.57
+Tofu,Breakfast,Veg,325,26.14,35.22,15.41
+Peanuts,Snack,Veg,516,34.5,71.66,17.47
+Broccoli,Snack,Veg,273,36.05,19.94,11.45
+Almonds,Lunch,Veg,547,18.98,54.02,26.16
+Spinach,Dinner,Veg,96,17.82,63.18,3.19
+Chicken Breast,Snack,Non-Veg,205,38.6,36.87,14.65
+Broccoli,Snack,Veg,280,9.03,32.15,20.69
+Salmon,Lunch,Non-Veg,576,29.47,36.83,14.59
+Banana,Snack,Veg,157,18.41,64.54,17.45
+Salmon,Dinner,Non-Veg,418,27.81,14.14,5.91
+Avocado,Lunch,Veg,122,13.07,12.89,17.18
+Peanuts,Snack,Veg,105,7.3,6.83,27.62
+Avocado,Snack,Veg,587,39.54,40.47,18.26
+Oats,Breakfast,Veg,473,16.02,49.61,7.58
+Carrot,Dinner,Veg,364,27.52,65.33,22.43
+Salmon,Lunch,Non-Veg,421,12.3,59.94,18.15
+Banana,Breakfast,Veg,539,10.43,49.88,17.46
+Chicken Breast,Lunch,Non-Veg,459,33.13,33.9,9.4
+Carrot,Dinner,Veg,90,5.51,22.34,8.95
+Peanuts,Breakfast,Veg,290,15.64,46.57,9.03
+Tofu,Snack,Veg,109,23.41,30.31,20.46
+Oats,Lunch,Veg,57,32.88,37.21,10.05
+Chicken Breast,Dinner,Non-Veg,78,24.04,59.05,15.78
+Sweet Potato,Lunch,Veg,249,3.28,40.49,6.98
+Lentils,Breakfast,Veg,160,29.51,52.39,14.05
+Carrot,Snack,Veg,480,31.52,14.36,22.48
+Broccoli,Breakfast,Veg,326,16.58,15.22,1.45
+Sweet Potato,Lunch,Veg,309,15.36,39.81,2.91
+Almonds,Dinner,Veg,328,2.33,71.94,1.57
+Broccoli,Lunch,Veg,360,11.14,10.85,6.67
+Banana,Snack,Veg,271,21.4,26.41,13.75
+Carrot,Snack,Veg,436,15.29,13.51,24.58
+Carrot,Dinner,Veg,459,18.14,47.12,2.45
+Lentils,Breakfast,Veg,488,9.08,67.22,4.65
+Spinach,Snack,Veg,131,29.96,55.77,22.43
+Peanuts,Snack,Veg,292,14.09,43.07,5.0
+Banana,Snack,Veg,576,3.22,31.97,8.85
+Lentils,Dinner,Veg,198,13.22,59.13,25.6
+Orange,Breakfast,Veg,547,29.03,11.75,5.56
+Almonds,Snack,Veg,314,1.56,5.84,22.33
+Brown Rice,Snack,Veg,429,35.52,5.68,14.78
+Broccoli,Dinner,Veg,518,34.71,29.03,8.65
+Sweet Potato,Snack,Veg,377,7.86,79.26,9.73
+Broccoli,Snack,Veg,323,22.86,75.16,1.79
+Broccoli,Dinner,Veg,443,19.39,58.26,26.03
+Tofu,Dinner,Veg,385,22.19,6.42,25.74
+Brown Rice,Lunch,Veg,499,10.21,18.93,17.69
+Chicken Breast,Snack,Non-Veg,550,32.59,53.2,18.59
+Almonds,Lunch,Veg,390,1.05,27.31,9.77
+Tofu,Snack,Veg,481,12.74,55.03,2.61
+Spinach,Snack,Veg,136,31.57,12.19,27.84
+Carrot,Snack,Veg,59,12.06,35.11,20.57
+Broccoli,Lunch,Veg,50,8.17,53.75,21.22
+Orange,Breakfast,Veg,410,28.71,70.07,22.33
+Milk,Dinner,Veg,304,1.08,64.51,29.8
+Banana,Snack,Veg,575,21.59,75.97,29.67
+Paneer,Lunch,Veg,339,36.22,56.77,9.18
+Tofu,Snack,Veg,56,21.08,36.0,1.96
+Quinoa,Lunch,Veg,467,29.0,44.98,10.7
+Oats,Breakfast,Veg,353,18.73,5.22,9.32
+Paneer,Breakfast,Veg,223,35.5,43.12,24.6
+Apple,Dinner,Veg,159,3.87,44.38,1.57
+Almonds,Snack,Veg,364,32.39,71.45,21.99
+Peanuts,Lunch,Veg,213,31.48,7.5,15.3
+Quinoa,Breakfast,Veg,198,37.89,32.3,18.31
+Eggs,Breakfast,Non-Veg,108,29.3,56.01,8.03
+Broccoli,Dinner,Veg,486,31.26,68.23,8.7
+Chickpeas,Snack,Veg,227,34.45,25.33,25.2
+Quinoa,Lunch,Veg,53,10.95,68.88,7.91
+Apple,Dinner,Veg,55,35.52,35.99,11.97
+Eggs,Breakfast,Non-Veg,114,13.08,32.81,7.79
+Salmon,Breakfast,Non-Veg,133,31.68,19.62,3.86
+Almonds,Breakfast,Veg,544,21.91,51.86,12.21
+Salmon,Breakfast,Non-Veg,162,29.06,21.5,29.35
+Chickpeas,Lunch,Veg,196,25.58,31.66,4.06
+Quinoa,Dinner,Veg,343,35.63,30.95,8.33
+Quinoa,Breakfast,Veg,342,12.33,36.03,16.82
+Milk,Breakfast,Veg,250,20.5,64.19,24.36
+Chickpeas,Dinner,Veg,306,29.5,40.81,24.0
+Sweet Potato,Dinner,Veg,500,19.56,31.55,29.62
+Quinoa,Breakfast,Veg,507,9.63,33.19,27.97
+Oats,Dinner,Veg,588,34.65,33.15,15.96
+Carrot,Snack,Veg,292,20.48,29.55,18.57
+Chickpeas,Snack,Veg,315,5.54,58.83,9.33
+Tofu,Snack,Veg,591,14.56,65.23,18.17
+Chicken Breast,Snack,Non-Veg,437,3.47,24.62,2.5
+Broccoli,Breakfast,Veg,281,19.12,65.83,8.58
+Chicken Breast,Snack,Non-Veg,180,6.65,50.65,3.63
+Quinoa,Dinner,Veg,535,20.13,40.02,19.59
+Chickpeas,Lunch,Veg,91,3.86,30.91,17.14
+Brown Rice,Lunch,Veg,301,1.12,39.09,27.6
+Apple,Lunch,Veg,82,39.72,19.54,13.2
+Paneer,Snack,Veg,145,35.13,77.87,3.6
+Peanuts,Breakfast,Veg,197,11.88,73.76,18.61
+Yogurt,Lunch,Veg,401,39.76,75.66,27.94
+Brown Rice,Lunch,Veg,231,14.1,78.24,26.81
+Oats,Lunch,Veg,244,21.94,46.87,29.44
+Tofu,Lunch,Veg,80,10.47,15.68,27.24
+Brown Rice,Snack,Veg,419,32.26,47.76,3.48
+Orange,Lunch,Veg,174,16.3,44.94,22.47
+Quinoa,Snack,Veg,567,11.23,71.51,22.96
+Sweet Potato,Snack,Veg,543,30.09,56.54,12.57
+Paneer,Dinner,Veg,335,16.06,36.68,1.54
+Avocado,Lunch,Veg,502,5.43,12.93,22.69
+Oats,Lunch,Veg,501,36.39,18.94,17.32
+Chickpeas,Snack,Veg,266,36.42,7.26,19.43
+Broccoli,Breakfast,Veg,556,34.51,61.15,13.35
+Oats,Dinner,Veg,189,22.35,56.05,21.35
+Paneer,Snack,Veg,478,31.68,17.65,28.6
+Oats,Dinner,Veg,78,36.99,45.09,14.19
+Lentils,Breakfast,Veg,293,16.21,20.62,24.95
+Orange,Lunch,Veg,346,30.04,59.82,16.93
+Quinoa,Lunch,Veg,281,10.63,57.01,23.79
+Orange,Breakfast,Veg,295,28.37,31.8,6.45
+Paneer,Breakfast,Veg,350,12.6,62.3,13.5
+Lentils,Dinner,Veg,477,24.9,58.55,7.25
+Yogurt,Dinner,Veg,240,1.22,27.87,27.76
+Peanuts,Lunch,Veg,94,28.41,9.22,19.02
+Quinoa,Lunch,Veg,95,12.43,56.46,21.2
+Quinoa,Dinner,Veg,242,38.03,5.88,1.14
+Apple,Lunch,Veg,411,15.31,60.01,2.42
+Milk,Snack,Veg,476,11.49,64.34,5.51
+Avocado,Dinner,Veg,556,27.28,24.4,29.29
+Salmon,Lunch,Non-Veg,170,27.93,62.4,6.55
+Eggs,Snack,Non-Veg,52,8.28,28.1,17.48
+Oats,Lunch,Veg,537,31.93,7.06,12.03
+Quinoa,Dinner,Veg,331,10.54,61.1,2.8
+Orange,Snack,Veg,369,38.6,77.91,16.23
+Quinoa,Breakfast,Veg,424,12.14,54.28,10.35
+Sweet Potato,Breakfast,Veg,536,8.03,5.29,8.7
+Carrot,Snack,Veg,98,28.01,62.91,25.79
+Peanuts,Breakfast,Veg,547,18.71,31.87,3.5
+Chickpeas,Snack,Veg,382,17.74,57.9,21.73
+Brown Rice,Breakfast,Veg,552,7.07,61.65,7.6
+Yogurt,Snack,Veg,590,31.81,76.37,19.42
+Spinach,Snack,Veg,254,22.64,30.77,19.32
+Carrot,Lunch,Veg,560,3.37,35.69,23.13
+Oats,Breakfast,Veg,335,17.9,58.45,12.69
+Salmon,Snack,Non-Veg,595,22.16,48.11,14.24
+Eggs,Dinner,Non-Veg,463,9.04,63.7,5.3
+Peanuts,Lunch,Veg,85,19.76,22.27,5.23
+Carrot,Dinner,Veg,336,36.35,5.37,9.06
+Apple,Lunch,Veg,102,23.2,63.95,24.76
+Paneer,Dinner,Veg,223,24.02,54.98,3.0
+Oats,Lunch,Veg,258,4.97,31.39,22.17
+Banana,Dinner,Veg,314,3.53,78.09,1.21
+Carrot,Snack,Veg,591,28.75,6.2,11.86
+Tofu,Snack,Veg,148,7.28,60.57,11.32
+Apple,Breakfast,Veg,588,28.15,15.06,7.12
+Tofu,Breakfast,Veg,563,27.16,21.31,3.35
+Salmon,Snack,Non-Veg,242,29.58,43.65,16.34
+Lentils,Lunch,Veg,524,21.82,47.61,17.53
+Almonds,Breakfast,Veg,446,22.59,5.91,7.01
+Sweet Potato,Breakfast,Veg,318,30.99,67.09,19.68
+Yogurt,Breakfast,Veg,148,26.55,56.1,13.74
+Eggs,Dinner,Non-Veg,548,35.26,26.72,6.02
+Almonds,Lunch,Veg,579,33.8,11.25,18.05
+Eggs,Snack,Non-Veg,391,20.37,56.02,1.65
+Chickpeas,Snack,Veg,305,34.18,14.51,23.93
+Paneer,Dinner,Veg,300,7.25,10.21,7.31
+Carrot,Breakfast,Veg,405,13.21,65.12,21.21
+Spinach,Snack,Veg,518,22.15,50.75,17.81
+Chicken Breast,Lunch,Non-Veg,531,31.04,5.82,8.6
+Salmon,Snack,Non-Veg,531,39.08,52.19,5.33
+Salmon,Lunch,Non-Veg,520,28.59,54.4,26.02
+Chickpeas,Lunch,Veg,476,27.03,65.97,22.88
+Salmon,Lunch,Non-Veg,503,4.57,11.51,19.82
+Avocado,Lunch,Veg,514,34.11,16.87,17.44
+Quinoa,Lunch,Veg,294,15.75,60.83,4.21
+Brown Rice,Breakfast,Veg,566,29.6,78.78,22.39
+Chickpeas,Dinner,Veg,219,34.1,77.73,8.73
+Tofu,Dinner,Veg,439,33.46,30.04,3.67
+Avocado,Lunch,Veg,301,6.88,42.81,10.89
+Salmon,Lunch,Non-Veg,494,38.51,27.85,16.27
+Chickpeas,Lunch,Veg,397,12.94,77.29,3.78
+Quinoa,Breakfast,Veg,143,35.28,7.89,27.47
+Tofu,Snack,Veg,289,8.9,50.1,24.45
+Quinoa,Lunch,Veg,560,23.69,13.5,18.9
+Chicken Breast,Snack,Non-Veg,298,29.52,56.32,13.54
+Avocado,Lunch,Veg,129,18.33,70.79,14.92
+Paneer,Lunch,Veg,109,2.22,64.16,8.15
+Sweet Potato,Lunch,Veg,575,4.33,39.57,9.86
+Carrot,Breakfast,Veg,263,35.87,67.64,24.04
+Milk,Breakfast,Veg,75,19.43,6.68,15.6
+Banana,Breakfast,Veg,400,38.11,53.78,11.5
+Peanuts,Snack,Veg,154,8.55,43.64,11.91
+Apple,Dinner,Veg,232,21.86,64.5,1.23
+Peanuts,Snack,Veg,281,27.71,28.59,13.75
+Almonds,Lunch,Veg,441,16.48,24.91,15.23
+Oats,Snack,Veg,452,2.17,28.97,26.17
+Chicken Breast,Lunch,Non-Veg,552,34.42,32.21,19.55
+Yogurt,Snack,Veg,480,25.83,37.7,7.06
+Quinoa,Breakfast,Veg,261,7.33,15.58,25.11
+Milk,Dinner,Veg,219,15.58,35.79,15.96
+Yogurt,Lunch,Veg,534,5.82,73.52,11.24
+Brown Rice,Breakfast,Veg,210,6.99,58.47,11.31
+Sweet Potato,Snack,Veg,128,35.06,16.11,25.13
+Paneer,Dinner,Veg,64,32.8,54.76,28.64
+Avocado,Lunch,Veg,491,31.21,74.84,23.04
+Chicken Breast,Snack,Non-Veg,474,14.56,12.37,17.36
+Chickpeas,Lunch,Veg,153,39.58,12.13,21.11
+Peanuts,Snack,Veg,525,7.88,64.32,29.97
+Milk,Snack,Veg,284,34.38,46.24,10.2
+Lentils,Breakfast,Veg,261,4.69,70.65,16.76
+Chickpeas,Breakfast,Veg,65,10.47,62.84,8.05
+Eggs,Snack,Non-Veg,167,33.67,61.67,9.95
+Chicken Breast,Snack,Non-Veg,564,11.41,30.3,12.88
+Tofu,Snack,Veg,452,33.86,75.74,26.97
+Banana,Snack,Veg,153,21.3,50.29,23.23
+Quinoa,Snack,Veg,52,8.0,52.59,22.44
+Tofu,Lunch,Veg,294,28.86,65.12,26.97
+Sweet Potato,Lunch,Veg,576,4.32,26.65,21.08
+Quinoa,Dinner,Veg,206,18.06,54.24,2.94
+Orange,Snack,Veg,516,18.2,42.39,13.24
+Paneer,Dinner,Veg,479,23.41,46.91,7.84
+Salmon,Dinner,Non-Veg,175,39.66,20.2,12.21
+Banana,Lunch,Veg,144,2.25,65.95,7.63
+Chicken Breast,Snack,Non-Veg,371,35.57,59.72,8.49
+Oats,Snack,Veg,445,24.8,43.7,28.06
+Carrot,Lunch,Veg,326,16.33,52.77,24.94
+Spinach,Breakfast,Veg,510,14.83,49.02,25.75
+Yogurt,Snack,Veg,572,5.73,6.67,2.41
+Peanuts,Dinner,Veg,157,28.58,7.43,11.46
+Quinoa,Snack,Veg,399,20.59,41.37,16.98
+Milk,Snack,Veg,401,29.14,32.46,11.46
+Carrot,Snack,Veg,246,33.06,53.3,16.8
+Chicken Breast,Dinner,Non-Veg,151,29.59,36.09,25.65
+Milk,Lunch,Veg,50,15.29,62.0,26.71
+Spinach,Breakfast,Veg,546,11.39,62.93,17.97
+Quinoa,Breakfast,Veg,399,5.26,74.1,28.62
+Sweet Potato,Breakfast,Veg,495,31.51,19.6,19.63
+Almonds,Breakfast,Veg,114,34.12,78.54,10.53
+Eggs,Snack,Non-Veg,553,25.06,65.87,15.98
+Tofu,Breakfast,Veg,231,21.89,28.63,1.47
+Brown Rice,Snack,Veg,317,34.74,40.3,25.62
+Sweet Potato,Lunch,Veg,505,17.25,30.45,20.99
+Spinach,Snack,Veg,153,32.41,77.76,24.59
+Apple,Lunch,Veg,530,32.84,50.6,4.43
+Salmon,Lunch,Non-Veg,585,7.47,24.78,5.18
+Eggs,Dinner,Non-Veg,294,10.16,33.73,26.27
+Lentils,Snack,Veg,481,20.63,18.98,29.76
+Apple,Breakfast,Veg,324,21.57,58.89,5.25
+Quinoa,Lunch,Veg,269,17.56,50.07,16.18
+Chicken Breast,Lunch,Non-Veg,162,25.6,74.82,19.68
+Brown Rice,Dinner,Veg,95,21.83,43.5,13.48
+Orange,Lunch,Veg,152,18.69,13.15,22.0
+Sweet Potato,Dinner,Veg,70,39.27,32.91,2.48
+Chicken Breast,Lunch,Non-Veg,84,7.48,26.27,17.44
+Almonds,Lunch,Veg,347,37.55,23.05,11.82
+Chickpeas,Breakfast,Veg,265,19.76,67.13,2.36
+Milk,Breakfast,Veg,557,2.69,76.73,3.02
+Salmon,Snack,Non-Veg,455,16.78,46.8,19.37
+Broccoli,Snack,Veg,577,31.71,11.33,9.81
+Lentils,Breakfast,Veg,149,34.28,11.02,8.31
+Paneer,Lunch,Veg,586,14.66,54.8,9.48
+Apple,Lunch,Veg,411,6.7,74.51,23.34
+Tofu,Lunch,Veg,266,3.95,69.46,15.87
+Eggs,Breakfast,Non-Veg,99,15.36,69.93,16.2
+Broccoli,Breakfast,Veg,330,6.23,48.32,3.5
+Oats,Breakfast,Veg,88,13.86,64.69,11.94
+Sweet Potato,Dinner,Veg,356,4.67,60.84,17.96
+Quinoa,Breakfast,Veg,339,19.9,32.04,22.53
+Yogurt,Lunch,Veg,436,37.59,17.68,12.17
+Eggs,Dinner,Non-Veg,134,15.29,22.42,18.0
+Almonds,Dinner,Veg,489,23.75,29.53,26.14
+Spinach,Snack,Veg,421,4.75,15.57,20.28
+Banana,Snack,Veg,590,25.63,57.71,23.73
+Oats,Snack,Veg,547,31.27,79.48,26.35
+Quinoa,Snack,Veg,68,16.21,36.7,2.55
+Brown Rice,Dinner,Veg,526,33.56,55.73,14.43
+Spinach,Lunch,Veg,434,15.29,77.5,22.33
+Carrot,Dinner,Veg,457,3.56,8.07,19.14
+Milk,Dinner,Veg,69,26.75,51.72,2.99
+Sweet Potato,Snack,Veg,288,36.08,71.61,17.46
+Peanuts,Lunch,Veg,82,23.09,71.92,1.04
+Chickpeas,Breakfast,Veg,527,3.28,78.3,16.2
+Broccoli,Dinner,Veg,586,25.61,22.12,3.58
+Broccoli,Breakfast,Veg,569,7.0,53.8,8.09
+Carrot,Snack,Veg,446,24.99,51.55,6.68
+Spinach,Breakfast,Veg,566,27.64,47.9,15.44
+Peanuts,Dinner,Veg,167,23.24,23.72,9.53
+Eggs,Breakfast,Non-Veg,537,33.03,40.64,21.62
+Carrot,Lunch,Veg,372,38.29,5.98,9.36
+Peanuts,Breakfast,Veg,418,17.69,26.83,5.48
+Milk,Breakfast,Veg,95,1.21,8.03,13.23
+Yogurt,Breakfast,Veg,293,3.08,62.46,15.22
+Chickpeas,Dinner,Veg,91,28.9,40.29,24.61
+Chicken Breast,Dinner,Non-Veg,531,15.31,29.73,12.49
+Almonds,Snack,Veg,418,3.58,68.46,12.37
+Chicken Breast,Breakfast,Non-Veg,461,37.47,12.58,9.15
+Eggs,Breakfast,Non-Veg,119,20.36,50.63,1.79
+Carrot,Breakfast,Veg,333,26.61,73.27,21.12
+Chicken Breast,Dinner,Non-Veg,561,7.09,62.08,19.87
+Apple,Dinner,Veg,574,23.22,51.61,29.09
+Peanuts,Breakfast,Veg,236,13.89,43.17,29.22
+Oats,Breakfast,Veg,158,3.72,18.67,26.31
+Yogurt,Breakfast,Veg,446,36.24,76.03,22.24
+Avocado,Snack,Veg,573,13.45,67.88,21.62
+Paneer,Lunch,Veg,598,21.22,44.88,18.31
+Orange,Snack,Veg,347,13.88,23.63,28.93
+Almonds,Breakfast,Veg,350,29.83,7.59,5.27
+Carrot,Dinner,Veg,325,16.05,28.25,10.49
+Sweet Potato,Snack,Veg,351,31.41,78.26,8.23
+Chicken Breast,Lunch,Non-Veg,566,10.15,52.94,25.78
+Banana,Breakfast,Veg,576,17.76,40.67,21.99
+Sweet Potato,Breakfast,Veg,589,12.68,62.19,9.68
+Chickpeas,Dinner,Veg,86,21.01,47.99,1.51
+Peanuts,Dinner,Veg,521,13.34,49.45,24.92
+Milk,Dinner,Veg,363,2.75,14.85,21.19
+Orange,Lunch,Veg,455,20.97,79.09,7.06
+Broccoli,Lunch,Veg,89,33.47,23.16,14.37
+Peanuts,Snack,Veg,566,16.73,65.61,28.56
+Orange,Breakfast,Veg,346,16.94,66.89,12.94
+Paneer,Snack,Veg,231,5.26,42.12,11.27
+Tofu,Dinner,Veg,100,12.07,24.62,26.78
+Yogurt,Lunch,Veg,588,11.45,43.03,22.07
+Apple,Lunch,Veg,302,3.71,39.77,19.67
+Carrot,Dinner,Veg,239,25.45,52.85,5.57
+Orange,Dinner,Veg,552,7.45,60.56,8.21
+Chicken Breast,Snack,Non-Veg,550,10.12,7.45,6.44
+Yogurt,Dinner,Veg,502,4.25,66.28,13.83
+Paneer,Snack,Veg,96,38.71,58.21,22.31
+Apple,Lunch,Veg,535,20.73,45.5,11.67
+Carrot,Breakfast,Veg,222,27.9,64.31,21.13
+Lentils,Snack,Veg,153,8.6,24.26,26.78
+Oats,Dinner,Veg,589,21.87,18.61,29.99
+Lentils,Dinner,Veg,165,1.77,76.3,17.86
+Quinoa,Breakfast,Veg,231,25.45,59.73,5.56
+Milk,Breakfast,Veg,269,18.69,47.61,13.05
+Yogurt,Lunch,Veg,342,6.79,74.52,18.63
+Almonds,Breakfast,Veg,525,33.57,46.41,1.55
+Lentils,Breakfast,Veg,317,23.12,32.12,11.72
+Oats,Breakfast,Veg,593,11.72,61.17,14.76
+Spinach,Snack,Veg,234,11.41,72.25,9.28
+Lentils,Dinner,Veg,502,1.06,32.09,6.51
+Salmon,Snack,Non-Veg,256,19.73,40.0,1.04
+Oats,Snack,Veg,86,36.61,57.81,10.56
+Chicken Breast,Breakfast,Non-Veg,522,15.92,7.4,29.47
+Peanuts,Lunch,Veg,95,10.98,76.86,7.7
+Salmon,Snack,Non-Veg,252,38.84,29.94,27.96
+Banana,Breakfast,Veg,389,2.23,21.58,4.48
+Orange,Breakfast,Veg,556,9.86,56.16,28.53
+Spinach,Breakfast,Veg,316,11.4,63.45,22.56
+Paneer,Snack,Veg,364,24.1,46.78,17.16
+Broccoli,Lunch,Veg,72,16.29,16.73,17.14
+Almonds,Snack,Veg,224,34.45,28.26,16.73
+Paneer,Dinner,Veg,481,25.27,45.6,28.08
+Spinach,Dinner,Veg,271,27.84,36.54,28.25
+Oats,Dinner,Veg,238,36.59,75.37,11.04
+Avocado,Dinner,Veg,220,28.35,53.96,5.76
+Oats,Breakfast,Veg,81,17.56,34.6,13.9
+Brown Rice,Dinner,Veg,181,12.24,68.61,12.36
+Milk,Snack,Veg,522,26.9,77.7,12.83
+Broccoli,Dinner,Veg,296,10.41,8.02,26.58
+Avocado,Dinner,Veg,186,12.13,58.08,11.07
